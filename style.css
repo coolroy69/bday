@@ -52,6 +52,8 @@ nav {
 
 .text {
     padding: 2rem 20rem;
+    padding-left:50px;
+    padding-right:25px;
     font-size: 1.1rem;
 }
 
