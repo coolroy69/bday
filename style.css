@@ -428,7 +428,7 @@ header {
     }
   }
 
-  /* @media screen and (max-width: 330px) {
+  @media screen and (max-width: 330px) {
     .card {
         width: 640px;
         height: 425px;
@@ -450,4 +450,4 @@ header {
         font-size: 4rem;
         transform: translate(-50%, -30%);
     }
-  } */
+  } 
